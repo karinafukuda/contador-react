@@ -4,7 +4,7 @@ Desenvolvido para fixar conceito de hooks , useState e useEffect.
 
 ## Deploy
 
-https://karinafukuda.github.io/contador-react
+https://contador-react-dio.netlify.app/
 
 ## Script
 
