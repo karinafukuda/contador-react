@@ -1,0 +1,33 @@
+.box-contador {
+  background-color: #fafafa;
+  display: flex;
+  flex-direction: row;
+  border: 2.5px solid #905499;
+  border-radius: 5px;
+  height: 25px;
+  width: 100%;
+  justify-content: space-between;
+  margin-bottom: 6px;
+}
+
+p,
+.botao-contador-ativo,
+.botao-contador-inativo {
+  text-align: center;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.botao-contador-ativo {
+  color: #001099;
+}
+
+.botao-contador-inativo {
+  color: #999;
+}
+
+#moeda {
+  width: 400px;
+  color: #770000;
+  font-weight: 700;
+}
